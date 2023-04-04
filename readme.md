@@ -1,4 +1,4 @@
-# Desafio - Grid com Animações
+# Desafio - Biscoito da sorte
 
 <img src="./images/screenshot.png"/>
 
